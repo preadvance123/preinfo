@@ -10,10 +10,10 @@
     "admob_bannerid": "ca-app-pub-3940256099942544/6300978111",
     "admob_nativebannerid": "ca-app-pub-3940256099942544/2247696110",
     "admob_appopenid": "",
-    "fb_interid": "770936526867997_770940596867590",
-    "fb_bannerid": "770936526867997_770937903534526",
-    "fb_native_bannerid": "770936526867997_770940773534239",
-    "fb_nativeid": "770936526867997_770941000200883",
+    "fb_interid": "",
+    "fb_bannerid": "",
+    "fb_native_bannerid": "",
+    "fb_nativeid": "",
     "unity_interid": ""
   }
 }
