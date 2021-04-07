@@ -16,12 +16,12 @@
     "fb_nativeid": "1359010827816532_1359012521149696",
     "unity_interid": ""
   },
-  "com.criclivescore.livecricket.liveipl2021": {
+  "com.cricnet.livescore.ipl2021": {
     "localad_url": "",
-    "check_livetv_mode": "on",
+    "check_livetv_mode": "off",
     "livetv_url": "http://68.183.85.1:8081/live/digi4/playlist.m3u8",
     "qureka_url": "http://633.win.qureka.com/",
-    "check_qureka_mode": "on",
+    "check_qureka_mode": "off",
     "admob_appid": "ca-app-pub-3940256099942544~3347511713",
     "admob_interid": "ca-app-pub-3940256099942544/1033173712",
     "admob_bannerid": "ca-app-pub-3940256099942544/6300978111",
